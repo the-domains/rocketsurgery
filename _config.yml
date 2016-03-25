@@ -1,0 +1,28 @@
+name: Rocket Surgery Book
+favicon: null
+layout_spectrum: 0.5582759473472834
+typography_spectrum: 0.7461543621029705
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.04924199893139303
+  lightness: 0.0045084895100444555
+  saturation: 0.17276284703984857
+  rhythmicContrast: 0.8642183423507959
+purpose: []
